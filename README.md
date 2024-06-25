@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrejGorodnij
-- 👀 I’m interested in Python and backend development
-- 🌱 I’m currently learning Websockets, MySQL and other stuff
+- 👀 I’m interested in Python and Rust backend development
+- 🌱 I’m currently learning Highload FastAPI/Litestar development
 
 <!---
 AndrejGorodnij/AndrejGorodnij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
